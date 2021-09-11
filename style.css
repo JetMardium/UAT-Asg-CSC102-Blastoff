@@ -1,0 +1,37 @@
+head   {
+    color:gold; }
+body  {
+    background-color: black;
+    font-size: 2.1em    }
+img   { 
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 50%;}
+p     {
+    color:gold;}
+h1     {
+    color:gold;}
+h2     {
+    color:gold;}
+h3     {
+    color:gold;}
+h4     {
+    color:gold;}
+h5     {
+    color:gold;}
+h6     {
+    color:gold;}
+
+button {
+        border: none;
+        color: gold;
+        padding: 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 50%;
+      }
